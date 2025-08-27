@@ -29,3 +29,12 @@ Contact Page: Support links, chatbot, store locater and service booking.
 Support/Help Centre: FAQS, repair trackers and live chat 
 Ecosystem Hub:  Cross device integration guides 
 Store/Bag:  Seamless checkout with apple pay.
+
+References:
+Lenovo’s ThinkPad Z16 has problems with random restarts. (2022, September 9). Notebook Check. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.notebookcheck.net%2FLenovo-s-ThinkPad-Z16-has-problems-with-random-restarts.648911.0.html&psig=AOvVaw13o5W_naXEJycypgBVUKeS&ust=1756398626863000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiHj_i0q48DFQAAAAAdAAAAABAE 
+
+Istore.co.za. (2025). iStore South Africa | Buy Apple Products Online | Free Delivery. [online] Available at: https://www.istore.co.za/?srsltid=AfmBOooF4xtGWDrNcoyfT6IpWMBVbtTXnmQCJXNsE5IK_064wbrXHdm6 [Accessed 19 Aug. 2025]. 
+
+Wikipedia (2025). Apple Inc. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Apple_Inc.. 
+
+‌Britannica (2023). Explore the history of Apple Inc. and its innovative products. [online] Encyclopedia Britannica. Available at: https://www.britannica.com/summary/Apple-Inc. 
