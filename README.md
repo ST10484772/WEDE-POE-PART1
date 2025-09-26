@@ -30,20 +30,6 @@ Support/Help Centre: FAQS, repair trackers and live chat
 Ecosystem Hub:  Cross device integration guides 
 Store/Bag:  Seamless checkout with apple pay.
 
-Changelog(CSS):
-1. Visual Design & Branding 
-Colour scheme: clean whites, light greys, and black. Occasional bold accent colours for highlighting new products. 
-Typography: Consistent use of San Francisco font, with clear hierarchy (big bold headings, lighter body text). 
-Imagery: High-resolution product photography, heavy use of white space, minimal clutter. 
-Consistency: Same style across web, app, and social media — ensuring brand identity. 
-
- 2. User Experience (UX) 
-Navigation: Sticky top navigation with dropdown menus for products, support, and services. 
-Product Pages: Feature large visuals, simple copy, clear CTAs (“Buy” or “Learn more”). 
-Checkout Flow: Minimal steps, clear progress indicators, Apple Pay integration for quick payment. 
-Accessibility: High contrast, scalable text, captions for videos. 
-Speed/Performance: Optimized loading — lots of lazy loading and compressed visuals. 
-
 
 References:
 Lenovo’s ThinkPad Z16 has problems with random restarts. (2022, September 9). Notebook Check. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.notebookcheck.net%2FLenovo-s-ThinkPad-Z16-has-problems-with-random-restarts.648911.0.html&psig=AOvVaw13o5W_naXEJycypgBVUKeS&ust=1756398626863000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiHj_i0q48DFQAAAAAdAAAAABAE 
